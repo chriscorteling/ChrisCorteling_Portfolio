@@ -32,7 +32,7 @@ export default function Hero() {
       {/* Profile Image */}
       <div className="mb-8">
         <img
-          src="/images/pro-pic.png"
+          src="/Images/pro-pic.png"
           alt="Chris Corteling"
           className="w-36 h-36 md:w-44 md:h-44 rounded-full object-cover border-4 border-cyan-400 shadow-[0_0_40px_rgba(34,211,238,0.45)] hover:scale-105 transition duration-300"
         />

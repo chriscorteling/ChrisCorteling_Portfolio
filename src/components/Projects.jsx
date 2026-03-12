@@ -9,7 +9,7 @@ const projects = [
     tech: ["MongoDB", "Express", "React", "Node.js" ],
     github: "https://github.com/chriscorteling/crackcode",
     live: "",
-    image: "/images/crackcode.png"
+    image: "/Images/crackcode.png"
   },
 
   {
@@ -19,7 +19,7 @@ const projects = [
     tech: ["Python", "Pandas", "scikit-learn", "Matplotlib"],
     github: "https://github.com/chriscorteling/ml-project",
     live: "",
-    image: "/images/ML.jpg"
+    image: "/Images/ML.jpg"
   },
 
   {
@@ -29,7 +29,7 @@ const projects = [
     tech: ["Next.js", "Tailwind CSS", "JavaScript"],
     github: "https://github.com/chriscorteling/portfolio",
     live: "",
-    image: "/images/project.jpeg"
+    image: "/Images/project.jpeg"
   },
 ];
 
