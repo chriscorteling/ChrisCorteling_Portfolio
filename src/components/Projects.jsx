@@ -9,7 +9,7 @@ const projects = [
     tech: ["MongoDB", "Express", "React", "Node.js" ],
     github: "https://github.com/chriscorteling/crackcode",
     live: "",
-    image: "/Images/crackcode.png"
+    image: "/Images/CrackCode.png"
   },
 
   {
