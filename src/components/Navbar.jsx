@@ -4,7 +4,7 @@ export default function Navbar() {
         <div className="section-container flex h-16 items-center justify-between">
         <a href="#home" className="flex items-center gap-3">
         <img
-            src="/Images/logo.png"
+            src="/Images/Logo.png"
             alt="Chris Corteling Logo"
             className="h-20 w-auto hover:scale-110 transition duration-300"
         />
