@@ -7,19 +7,19 @@ const projects = [
     description:
       "A coding platform project where I worked on authentication, session handling, shop features, inventory logic, purchase flow, and backend structure using modern development practices.",
     tech: ["MongoDB", "Express", "React", "Node.js" ],
-    github: "https://github.com/chriscorteling/crackcode",
-    live: "",
+    github: "https://github.com/CrackCode-dev/CrackCode-Main.git",
+    live: "https://www.crackcodehq.com",
     image: "/Images/CrackCode.png"
   },
 
   {
-    title: "Machine Learning Classification Project",
+    title: "UMI EDU Website",
     description:
-      "A classification-based machine learning project using algorithms such as Naive Bayes, Logistic Regression, and KNN, with evaluation metrics and visualizations for model performance.",
+      "A website that is built to showcase the Life Under Water. Which is one of the SDG 14 Goals. ",
     tech: ["Python", "Pandas", "scikit-learn", "Matplotlib"],
-    github: "https://github.com/chriscorteling/ml-project",
+    github: "https://github.com/KulaniShobashi/SDG-Life-under-water.git",
     live: "",
-    image: "/Images/ML.jpg"
+    image: "/Images/life.jpeg"
   },
 
   {
@@ -27,10 +27,20 @@ const projects = [
     description:
       "A modern responsive developer portfolio built to showcase my projects, technical skills, education, and future goals in AI, robotics, and software engineering.",
     tech: ["Next.js", "Tailwind CSS", "JavaScript"],
-    github: "https://github.com/chriscorteling/portfolio",
+    github: "https://github.com/chriscorteling/ChrisCorteling_Portfolio.git",
     live: "",
     image: "/Images/project.jpeg"
   },
+
+  {
+    title: "Data traffic Reader",
+    Description: 
+      "A project covers up basic classification machine learning. From giving a dataset this project consists of data understanding, cleaning and reading thorough out a histogram.",
+    tech: ["Python", "Pandas"],
+    github: "https://github.com/chriscorteling/Traffic-Data-Viewer.git",
+    live: "",
+    image: "/Images/traffic.png"
+  }
 ];
 
 export default function Projects() {
