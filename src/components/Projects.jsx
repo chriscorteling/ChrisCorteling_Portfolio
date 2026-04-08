@@ -49,7 +49,7 @@ const projects = [
     tech: ["Python", "Pandas"],
     github: "https://github.com/chriscorteling/Traffic-Data-Viewer.git",
     live: "",
-    image: "/Images/traffic.png"
+    image: "/Images/Traffic.png"
   }
 ];
 
