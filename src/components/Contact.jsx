@@ -25,7 +25,7 @@ export default function Contact() {
 
               <p className="mt-5 text-gray-300 leading-8">
                 I’m currently building my skills in Software Engineering,
-                AI/ML, and Fullstack Development, and I’m open to internship
+                AI/ML, and Fullstack Development, and I’m open for internship
                 opportunities, collaborations, and meaningful tech conversations.
               </p>
 
