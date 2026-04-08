@@ -13,13 +13,23 @@ const projects = [
   },
 
   {
+    title: "DineM8",
+    description:
+      "A Restaurent Management System to manage the work flow between customer and waiter to the kitchen using smart unique QR-Systems",
+    tech: ["C#", ".NET Core", "PostgreSQL", "React" ],
+    github: "https://github.com/chriscorteling/Restaurant-Management-System.git",
+    live: "",
+    image: "/Images/Dinem8.png"
+  },
+
+  {
     title: "UMI EDU Website",
     description:
       "A website that is built to showcase the Life Under Water. Which is one of the SDG 14 Goals. ",
     tech: ["Python", "Pandas", "scikit-learn", "Matplotlib"],
     github: "https://github.com/KulaniShobashi/SDG-Life-under-water.git",
     live: "",
-    image: "/Images/life.jpeg"
+    image: "/Images/Life.jpg"
   },
 
   {
@@ -34,8 +44,8 @@ const projects = [
 
   {
     title: "Data traffic Reader",
-    Description: 
-      "A project covers up basic classification machine learning. From giving a dataset this project consists of data understanding, cleaning and reading thorough out a histogram.",
+    description: 
+     "A project covers up basic classification machine learning. From giving a dataset this project consists of data understanding, cleaning and reading thorough out a histogram.",
     tech: ["Python", "Pandas"],
     github: "https://github.com/chriscorteling/Traffic-Data-Viewer.git",
     live: "",
