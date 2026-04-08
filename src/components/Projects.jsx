@@ -42,7 +42,7 @@ const projects = [
     image: "/Images/project.jpeg"
   },
 
-  {
+ /* {
     title: "Data traffic Reader",
     description: 
      "A project covers up basic classification machine learning. From giving a dataset this project consists of data understanding, cleaning and reading thorough out a histogram.",
@@ -50,7 +50,7 @@ const projects = [
     github: "https://github.com/chriscorteling/Traffic-Data-Viewer.git",
     live: "",
     image: "/Images/Traffic.png"
-  }
+  } */
 ];
 
 export default function Projects() {
