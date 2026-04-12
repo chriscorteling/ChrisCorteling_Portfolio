@@ -51,7 +51,7 @@ export default function Hero() {
       </h1>
 
       <p className="mt-6 max-w-2xl text-base md:text-lg text-gray-300 leading-8">
-        AI Engineer @Tracified-Blockchains & CO-Founder @CrackCode, IEEE CIS Logistics Lead 2026/27.
+        CO-Founder @CrackCode, IEEE CIS Logistics Lead 2026/27.
          Passionate in AI, Machine Learning, Full-Stack
         Development, Digital Marketing. I enjoy creating clean, scalable, and
         user-focused applications and building relations with team works.
